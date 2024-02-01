@@ -15,3 +15,4 @@ This is a test run for a PowerBI dashboard
 <used data analysis methods, with a focus on time series analysis, to create interactive dashboards, give insightful data, and accurately estimate sales.>
 
 
+
