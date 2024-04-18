@@ -1,4 +1,4 @@
-# PowerBI-
+# PowerBI  Store Sales Dashboard
 This is a test run for a PowerBI dashboard
 
 #OBJECTIVE
